@@ -1,0 +1,54 @@
+Feature Type and Number,Description
+S1,Fraction of clauses that are unit clauses
+S2,Fraction of clauses that are Horn clauses
+S3,Fraction of clauses that are ground Clauses
+S4,Fraction of clauses that are demodulators
+S5,Fraction of clauses that are rewrite rules (oriented demodulators)
+S6,Fraction of clauses that are purely positive
+S7,Fraction of clauses that are purely negative
+S8,Fraction of clauses that are mixed positive and negative
+S9,Maximum clause length
+S10,Average clause length
+S11,Maximum clause depth
+S12,Average clause depth
+S13,Maximum clause weight
+S14,Average clause weight
+D1,Proportion of generated clauses kept (trivial clauses are discarded)
+D2,Sharing factor (A measure of the number of shared terms)
+D3,|P|/|P ∪ U|
+D4,|U|/|A|
+D5,Ratio of longest clause lengths in P and A
+D6,Ratio of average clause lengths in P and A
+D7,Ratio of longest clause lengths in U and A
+D8,Ratio of average clause lengths in U and A
+D9,Ratio of maximum clause depths in P and A
+D10,Ratio of average clause depths in P and A
+D11,Ratio of maximum clause depths in U and A
+D12,Ratio of average clause depths in U and A
+D13,Ratio of maximum clause standard weights in P and A
+D14,Ratio of average clause standard weights in P and A
+D15,Ratio of maximum clause standard weights in U and A
+D16,Ratio of average clause standard weights in U and A
+D17,Ratio of the number of trivial clauses to |P|
+D18,Ratio of the number of forward subsumed clauses to |P|
+D19,Ratio of the number of non-trivial clauses to |P|
+D20,Ratio of the number of other redundant clauses to |P|
+D21,Ratio of the number of non-redundant deleted clauses to |P|
+D22,Ratio of the number of backward subsumed clauses to |P|
+D23,Ratio of the number of backward rewritten clauses to |P|
+D24,Ratio of the number of backward rewritten literal clauses to |P|
+D25,Ratio of the number of generated clauses to |P|
+D26,Ratio of the number of generated literal clauses to |P|
+D27,Ratio of the number of generated non-trivial clauses to |P|
+D28,context sr count/|P|
+D29,Ratio of paramodulations to |P|
+D30,factor count/|P|
+D31,resolv count/|P|
+D32,Fraction of unit clauses in U
+D33,Fraction of Horn clauses in U
+D34,Fraction of ground clauses in U
+D35,Fraction of demodulator clauses in U
+D36,Fraction of rewrite rule clauses in |U|
+D37,Fraction of clauses with only positive literals in U
+D38,Fraction of clauses with only negative literals in U
+D39,Fraction of clauses with positive and negative literals in U

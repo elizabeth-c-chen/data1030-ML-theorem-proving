@@ -1,0 +1,6 @@
+.DS_Store
+local/
+bridge-data/test.csv
+bridge-data/validation.csv
+.ipynb_checkpoints/
+
