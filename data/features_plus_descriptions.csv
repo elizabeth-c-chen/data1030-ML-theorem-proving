@@ -15,7 +15,7 @@ S13,Maximum clause weight
 S14,Average clause weight
 D1,Proportion of generated clauses kept (trivial clauses are discarded)
 D2,Sharing factor (A measure of the number of shared terms)
-D3,|P|/|P ∪ U|
+D3,|P|/|P \cup U|
 D4,|U|/|A|
 D5,Ratio of longest clause lengths in P and A
 D6,Ratio of average clause lengths in P and A
