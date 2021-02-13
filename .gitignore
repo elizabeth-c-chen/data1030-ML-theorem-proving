@@ -3,5 +3,6 @@ local/
 old/
 for_report/
 .ipynb_checkpoints/
+results/RF_models.pkl
 
 
