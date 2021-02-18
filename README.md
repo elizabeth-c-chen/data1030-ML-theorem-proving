@@ -8,5 +8,7 @@ I decided to build on Dr. Bridge’s idea by converting the time columns used to
 
 The Jupyter notebooks found in the `src/` directory explore creating the target variable, exploratory data analysis, and the experimentation with various machine learning algorithms on the dataset. Saved models for three of the algorithms can be found in the `results/` directory, however, the file for random forest was too large to save in full, so only the best random forest model from my results is included.
 
+Some figures I produced are saved in the `figures/` directory (and several can be seen in the report with captions as well). All data files used in the project are available in the `data/` directory.
+
 ## Running my code
 To view any of my notebooks, you may install the conda environment used to generate all code in those files. Please run `conda env create -n ml_atp -f ml_atp.yml` from the main project directory. 
